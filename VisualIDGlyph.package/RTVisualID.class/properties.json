@@ -1,0 +1,18 @@
+{
+	"category" : "VisualIDGlyph-RoassalIntegration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"visualID",
+		"lineColor",
+		"shadowColor",
+		"basedOn",
+		"cluster" ],
+	"name" : "RTVisualID",
+	"pools" : [
+		 ],
+	"super" : "RTBox",
+	"type" : "normal" }

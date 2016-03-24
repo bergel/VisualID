@@ -1,0 +1,3 @@
+actions
+currentPoint
+	^ original getCurrentPoint.

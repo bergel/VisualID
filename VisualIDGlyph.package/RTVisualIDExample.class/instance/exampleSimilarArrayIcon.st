@@ -1,0 +1,12 @@
+icons
+exampleSimilarArrayIcon
+	^ 'iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAABsElEQVR4XuXYsW6CQBzAYR+d
+wYfgGVzYWBmcXYg7wUEZiI4mEO5aiTambTpyNN8vITEOkvw/7ri4idFvTW38Efggfj6ID+Ln
+g/ggfj6ID+Lng/ggfj6Inw/ig/j5ID6Inw/ig/j5ID6Inw/i54P4IH4+iA/i54P4IH4+iA/i
+54P4+SA+iJ8P4oP4+SA+iN8/BWnbNozjGG63WzgcDmG/34emafxJpwKpqmq+uq4Lx+NxhvHH
+nBDkfD6H6/UaHiCn08lfHf47xAfx80F8ED8fxAfx80F+Fp6luOd7PMj3QSw1lN/u44MkGsz7
+Q3C5XGJZlslRVrdlFUUR+75fDOT1ebfbxe12G19f+SDP7vd7/PxzclGQuq5jlmXzled50lWy
+2i1riZfr6/enafpaGcMwJDtcrG6FLH3S+es+/pa1kofAP/b6+SA+iJ8P4oP4+SA+iJ8P4oP4
++SB+PogP4ueD+CB+PogP4ueD+CB+PoifD+KD+PkgPoifD+KD+PkgPoifD+Lng/ggfj6ID+Ln
+g/ggfj6ID+Lng/j5ID6Inw/ig/j5ID6Inw/ig/j5ID6I36r6AGINnEGzm9sJAAAAAElFTkSu
+QmCC'

@@ -1,0 +1,27 @@
+{
+	"category" : "VisualIDGlyph-CoreGlyph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"base",
+		"n",
+		"ncoef",
+		"coefficients",
+		"points",
+		"fourier",
+		"exponent",
+		"spawnInside",
+		"insideChild",
+		"spawnVertex",
+		"outlineChild",
+		"ocScale",
+		"maxAngle",
+		"icScale" ],
+	"name" : "VMetaShape",
+	"pools" : [
+		 ],
+	"super" : "VGlyph",
+	"type" : "normal" }

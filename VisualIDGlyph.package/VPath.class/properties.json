@@ -1,0 +1,14 @@
+{
+	"category" : "VisualIDGlyph-CoreGlyph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "VPath",
+	"pools" : [
+		 ],
+	"super" : "VMetaShape",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"for:parent:" : "IgnacioFernandez 8/9/2015 21:21",
+		"keyChild" : "IgnacioFernandez 7/23/2015 16:38" },
+	"instance" : {
+		"cScale" : "IgnacioFernandez 7/14/2015 12:21",
+		"cScale:" : "IgnacioFernandez 7/14/2015 12:21",
+		"child" : "IgnacioFernandez 7/6/2015 12:39",
+		"child:" : "IgnacioFernandez 7/6/2015 12:39",
+		"childNames" : "IgnacioFernandez 8/5/2015 17:41",
+		"complexity" : "JuanPabloSandoval 7/10/2015 00:41",
+		"initialize" : "IgnacioFernandez 7/24/2015 10:48",
+		"mutate" : "IgnacioFernandez 7/24/2015 10:55",
+		"n" : "IgnacioFernandez 7/10/2015 16:32",
+		"n:" : "IgnacioFernandez 7/14/2015 12:21",
+		"offset" : "IgnacioFernandez 7/14/2015 12:21",
+		"offset:" : "IgnacioFernandez 7/14/2015 12:21",
+		"renderChildOn:" : "JuanPabloSandoval 7/10/2015 14:09",
+		"renderOn:" : "JuanPabloSandoval 7/10/2015 13:51",
+		"setUpDefaultValues" : "IgnacioFernandez 7/24/2015 10:48" } }

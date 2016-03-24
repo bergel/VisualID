@@ -1,0 +1,3 @@
+hooks
+clone
+	^ self veryDeepCopy.

@@ -1,0 +1,3 @@
+hooks
+mutate
+	^ VNull new.

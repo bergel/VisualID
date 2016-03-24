@@ -1,0 +1,3 @@
+actions
+setLineWidth: aInteger
+	self subclassResponsibility

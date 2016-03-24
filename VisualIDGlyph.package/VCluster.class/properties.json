@@ -1,0 +1,17 @@
+{
+	"category" : "VisualIDGlyph-Comparison",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Instance" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"score",
+		"ids",
+		"based",
+		"comparator" ],
+	"name" : "VCluster",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

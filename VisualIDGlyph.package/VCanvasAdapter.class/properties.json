@@ -1,0 +1,14 @@
+{
+	"category" : "VisualIDGlyph-Canvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"original" ],
+	"name" : "VCanvasAdapter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

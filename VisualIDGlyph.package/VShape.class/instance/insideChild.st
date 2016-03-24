@@ -1,0 +1,3 @@
+accesing
+insideChild
+	^ insideChild

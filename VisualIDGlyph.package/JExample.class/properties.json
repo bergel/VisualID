@@ -1,0 +1,14 @@
+{
+	"category" : "VisualIDGlyph-RoassalIntegration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "JExample",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

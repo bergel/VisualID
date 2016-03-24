@@ -1,0 +1,3 @@
+accessing
+numberOfClasses
+	^ classes size

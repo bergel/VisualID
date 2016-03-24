@@ -1,0 +1,19 @@
+{
+	"category" : "VisualIDGlyph-CoreGlyph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"head",
+		"headScale",
+		"leg",
+		"legScale",
+		"tail",
+		"tailScale" ],
+	"name" : "VFigure",
+	"pools" : [
+		 ],
+	"super" : "VGlyph",
+	"type" : "normal" }

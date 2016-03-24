@@ -1,0 +1,14 @@
+{
+	"category" : "VisualIDGlyph-Paper-Experiment-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PEC",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
