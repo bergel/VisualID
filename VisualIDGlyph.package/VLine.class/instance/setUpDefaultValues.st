@@ -1,4 +1,4 @@
-initailize-release
+initialize-release
 setUpDefaultValues
 	ribDoubleSided := false.
 	ribCount := 0.
@@ -6,4 +6,5 @@ setUpDefaultValues
 	ribAngle := 0.
 	ribIncrease := false.
 	tailScale := 0.
-	headScale := 0
+	headScale := 0.
+	length := self class defaultLength

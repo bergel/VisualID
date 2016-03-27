@@ -1,4 +1,4 @@
-initailize-release
+initialize-release
 setUpDefaultChildren
 	rib  := VNull new. 
   	tail := VNull new.

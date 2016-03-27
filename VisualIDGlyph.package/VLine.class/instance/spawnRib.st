@@ -1,3 +1,3 @@
 accessing
 spawnRib
-	^ spawnRib
+	^ shouldSpawnRib

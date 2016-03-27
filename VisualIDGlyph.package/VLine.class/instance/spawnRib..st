@@ -1,3 +1,3 @@
 accessing
 spawnRib: anObject
-	spawnRib := anObject
+	shouldSpawnRib := anObject

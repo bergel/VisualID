@@ -1,3 +1,3 @@
 accessing
 spawnTail
-	^ spawnTail
+	^ shouldSpawnTail

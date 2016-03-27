@@ -1,4 +1,4 @@
-initailize-release
+initialize-release
 initialize
 	super initialize.
 	self setUpDefaultChildren.

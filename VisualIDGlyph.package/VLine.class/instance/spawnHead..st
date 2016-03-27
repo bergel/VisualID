@@ -1,3 +1,3 @@
 accessing
-spawnHead: anObject
-	spawnHead := anObject
+spawnHead: boolean
+	shouldSpawnHead := boolean

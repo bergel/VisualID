@@ -1,3 +1,3 @@
 accessing
-spawnTail: anObject
-	spawnTail := anObject
+spawnTail: boolean
+	shouldSpawnTail := boolean

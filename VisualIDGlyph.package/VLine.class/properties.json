@@ -8,10 +8,8 @@
 	"instvars" : [
 		"length",
 		"ribCount",
-		"spawnHead",
 		"head",
 		"headScale",
-		"spawnTail",
 		"tail",
 		"tailScale",
 		"rib",
@@ -20,7 +18,9 @@
 		"ribAngle",
 		"ribTaper",
 		"ribIncrease",
-		"spawnRib" ],
+		"shouldSpawnTail",
+		"shouldSpawnRib",
+		"shouldSpawnHead" ],
 	"name" : "VLine",
 	"pools" : [
 		 ],
