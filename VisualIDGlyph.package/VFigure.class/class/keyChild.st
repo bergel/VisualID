@@ -1,4 +1,4 @@
 factory
 keyChild
-	^ #head.
-	
+	self halt. "Should be removed"
+	^ #head
