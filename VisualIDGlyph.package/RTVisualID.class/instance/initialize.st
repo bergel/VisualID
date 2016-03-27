@@ -10,4 +10,4 @@ initialize
 	cluster := VCluster new  
 			basedOn: basedOn; 
 			comparator: VJaccard new.
-	self visualID: [ :ele |  cluster id: ele ]
+	self visualID: [ :ele | cluster id: ele ]

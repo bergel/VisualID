@@ -1,6 +1,5 @@
 sources
 exampleCamelCase
-
 	| shape s elements v |
 	shape := RTVisualID new.
 	shape score: 30.

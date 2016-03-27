@@ -1,4 +1,4 @@
-as yet unclassified
+factory
 for: anObject parent: aGlyph
 	|spiral recursionLevel hiLength lowLength|
 	spiral := VSpiral new.
