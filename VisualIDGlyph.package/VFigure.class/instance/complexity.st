@@ -1,5 +1,5 @@
 hooks
 complexity
-	^ 1 + leg complexity
-		+ tail complexity
-		+ head complexity.
+	^ 1 + legGlyph complexity
+		+ tailGlyph complexity
+		+ headGlyph complexity.

@@ -8,7 +8,7 @@ renderLegsOn: canvas
 		canvas rotateBy: (Float pi *4.0).
 		canvas translateTo: (0@legScale/2).
 		canvas scaleBy: (legScale@legScale).
-		leg renderPathOn: canvas.    
+		legGlyph renderPathOn: canvas.    
     	canvas restore.
 	].
 	canvas restore.

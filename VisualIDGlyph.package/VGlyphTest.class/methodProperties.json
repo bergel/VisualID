@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"isAbstract" : "AlexandreBergel 3/27/2016 14:45" },
+	"instance" : {
+		"setUp" : "AlexandreBergel 3/27/2016 14:42",
+		"testMutate" : "AlexandreBergel 3/27/2016 14:43",
+		"testrenderOn" : "AlexandreBergel 3/27/2016 14:47" } }

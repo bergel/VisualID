@@ -1,3 +1,3 @@
 accessing
-head: anObject
-	head := anObject
+head: aGlyph
+	headGlyph := aGlyph

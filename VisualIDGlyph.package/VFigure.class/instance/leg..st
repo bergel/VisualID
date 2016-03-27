@@ -1,3 +1,3 @@
 accessing
 leg: anObject
-	leg := anObject
+	legGlyph := anObject

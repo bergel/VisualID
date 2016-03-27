@@ -3,5 +3,5 @@ renderHeadOn: canvas
 	canvas save.
 	canvas translateTo: (0@ (legScale/2 + headScale/2)).
  	canvas scaleBy: (headScale@headScale).
-  	head renderPathOn: canvas.
+  	headGlyph renderPathOn: canvas.
   	canvas restore.

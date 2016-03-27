@@ -6,12 +6,12 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"head",
 		"headScale",
-		"leg",
 		"legScale",
-		"tail",
-		"tailScale" ],
+		"tailScale",
+		"headGlyph",
+		"legGlyph",
+		"tailGlyph" ],
 	"name" : "VFigure",
 	"pools" : [
 		 ],

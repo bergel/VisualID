@@ -1,3 +1,3 @@
 accessing
 head
-	^ head
+	^ headGlyph

@@ -1,3 +1,3 @@
 hooks
 mutate
-	self subclassResponsability.
+	self subclassResponsibility.
