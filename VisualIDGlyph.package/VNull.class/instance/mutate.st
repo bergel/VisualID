@@ -1,3 +1,3 @@
 hooks
 mutate
-	^ VNull new.
+	^ VNull new

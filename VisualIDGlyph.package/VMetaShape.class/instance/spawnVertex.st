@@ -1,3 +1,3 @@
 accessing
 spawnVertex
-	^ spawnVertex
+	^ shouldSpawnVertex

@@ -1,3 +1,3 @@
 accessing
 shadowColor
-	^ shadowColor.
+	^ shadowColor

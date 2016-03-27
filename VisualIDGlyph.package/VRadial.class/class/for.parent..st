@@ -1,5 +1,5 @@
-as yet unclassified
-for: anObject parent: aGlyph
+factory
+for: randomizer parent: aGlyph
 	|radial| 
 	radial := VRadial new.
 	radial parent: aGlyph.
@@ -21,8 +21,8 @@ for: anObject parent: aGlyph
 	(VRandom default prob: 0.5) ifTrue: [ 
 		radial angleCutoff: (VRandom default randomFrom: Float pi / 2 to: Float pi / 1.2) .]
 		ifFalse: [ radial angleCutoff: Float pi. ].
-		radial spawnVertex ifTrue: [self spawn: radial with: anObject on: #vertexChild:].
-		radial spawnMouth ifTrue: [ self spawn: radial with: anObject on: #mouthChild:].
-		radial spawnEye ifTrue: [self spawn: radial with: anObject on: #eyeChild:].
+		radial spawnVertex ifTrue: [self spawn: radial with: randomizer on: #vertexChild:].
+		radial spawnMouth ifTrue: [ self spawn: radial with: randomizer on: #mouthChild:].
+		radial spawnEye ifTrue: [self spawn: radial with: randomizer on: #eyeChild:].
 		
 	^ radial.

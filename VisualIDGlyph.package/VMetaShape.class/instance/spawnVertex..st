@@ -1,3 +1,3 @@
 accessing
 spawnVertex: anObject
-	spawnVertex := anObject
+	shouldSpawnVertex := anObject

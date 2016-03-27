@@ -1,3 +1,3 @@
 hooks
 complexity
-		^ 0.
+	^ 0

@@ -1,3 +1,3 @@
 accessing
-random: anObject
-	random := anObject
+random: seedObject
+	random := VRandom newWithSeed: seedObject hash

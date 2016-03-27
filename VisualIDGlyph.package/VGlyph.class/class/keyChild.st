@@ -1,4 +1,4 @@
 hooks
 keyChild
-	^ self subclassResponsability.
+	^ self subclassResponsibility
 	

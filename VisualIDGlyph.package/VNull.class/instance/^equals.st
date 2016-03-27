@@ -1,3 +1,3 @@
 hooks
 = aVNull
-	^ self class = aVNull class.
+	^ self class = aVNull class

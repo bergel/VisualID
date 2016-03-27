@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 setUpMetaShape: path with: anObject
 	| level |
 	path maxAngle: Float pi * 2.

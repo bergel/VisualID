@@ -10,4 +10,4 @@ renderOn: canvas
 	self renderTailOn: canvas.
 	self renderRibOn: canvas.
 	canvas newSubPath.
-	canvas moveTo: currentPoint.
+	canvas moveTo: currentPoint

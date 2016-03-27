@@ -3,5 +3,6 @@
 		"isAbstract" : "AlexandreBergel 3/27/2016 14:45" },
 	"instance" : {
 		"setUp" : "AlexandreBergel 3/27/2016 14:42",
+		"testCreation" : "AlexandreBergel 3/27/2016 18:17",
 		"testMutate" : "AlexandreBergel 3/27/2016 14:43",
 		"testrenderOn" : "AlexandreBergel 3/27/2016 14:47" } }

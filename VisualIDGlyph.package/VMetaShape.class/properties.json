@@ -15,11 +15,11 @@
 		"exponent",
 		"spawnInside",
 		"insideChild",
-		"spawnVertex",
 		"outlineChild",
 		"ocScale",
 		"maxAngle",
-		"icScale" ],
+		"icScale",
+		"shouldSpawnVertex" ],
 	"name" : "VMetaShape",
 	"pools" : [
 		 ],
