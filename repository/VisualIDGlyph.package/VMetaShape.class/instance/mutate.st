@@ -2,7 +2,7 @@ hooks
 mutate
 	| level |
 	level := self level.
-	n := (2 ** (VRandom default randomLevelFrom: 3 to: 5 at: level)) asInteger.
+	n := (2 ** (random randomLevelFrom: 3 to: 5 at: level)) asInteger.
 	points := Array new: (n+1).
 	(1 to: (n+1)) do:[ :i |points at: i put: 0.5.].
 	(1 to: ncoef) do:[ :j|

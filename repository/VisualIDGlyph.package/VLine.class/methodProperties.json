@@ -1,7 +1,7 @@
 {
 	"class" : {
 		"defaultLength" : "AlexandreBergel 3/27/2016 18:07",
-		"for:parent:" : "AlexandreBergel 3/27/2016 18:34",
+		"for:parent:" : "AlexandreBergel 5/6/2016 18:08",
 		"keyChild" : "IgnacioFernandez 7/23/2015 16:24" },
 	"instance" : {
 		"childNames" : "IgnacioFernandez 8/5/2015 17:40",
@@ -13,7 +13,7 @@
 		"initialize" : "IgnacioFernandez 7/24/2015 10:14",
 		"length" : "JuanPabloSandoval 6/29/2015 23:29",
 		"length:" : "AlexandreBergel 3/27/2016 18:07",
-		"mutate" : "IgnacioFernandez 7/30/2015 13:02",
+		"mutate" : "AlexandreBergel 5/6/2016 18:26",
 		"renderHeadOn:" : "JuanPabloSandoval 7/10/2015 13:31",
 		"renderOn:" : "AlexandreBergel 3/27/2016 18:18",
 		"renderRibOn:" : "JuanPabloSandoval 7/10/2015 13:31",

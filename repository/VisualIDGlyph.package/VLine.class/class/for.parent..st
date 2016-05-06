@@ -1,8 +1,9 @@
 factory
-for: anObject parent: aGlyph
-	| line random |
-	random := aGlyph createOrGetRandomFor: anObject.
+for: random parent: aGlyph
+	| line |
+	self assert: [ random class == VRandom ].
 	line := VLine new.
+	line random: random.
 	line parent: aGlyph.
 	line length: (random randomFrom: 0.1 to: 0.5).
 	line ribCount: (random virand: 3 range: 10 biased: 1.5).
@@ -17,7 +18,7 @@ for: anObject parent: aGlyph
    line spawnTail ifTrue: [ line tailScale: (random randomFrom: 0.15 to: 0.6) ].
 	line spawnHead: (random prob: 0.75).
    line spawnHead ifTrue: [ line headScale: (random randomFrom: 0.15 to: 0.6) ].
-	line spawnRib ifTrue: [ self spawn: line with: anObject on: #rib: ].
-	line spawnTail ifTrue: [ self spawn: line with: anObject on: #tail: ].
-	line spawnHead ifTrue: [ self spawn: line with: anObject on: #head: ].
+	line spawnRib ifTrue: [ self spawn: line with: random on: #rib: ].
+	line spawnTail ifTrue: [ self spawn: line with: random on: #tail: ].
+	line spawnHead ifTrue: [ self spawn: line with: random on: #head: ].
 	^ line.

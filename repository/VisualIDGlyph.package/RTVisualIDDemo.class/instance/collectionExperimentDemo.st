@@ -5,10 +5,10 @@ collectionExperimentDemo
 	v @ RTDraggableView.
 	objects := {Object. VisualID. RTVisualID. VGlyph. VCairoCanvas. VCluster}.
 	cluster := VCluster new
-						basedOn:[ :model | model];
+						basedOn:[ :model | model ];
 						forOchiaiCollections.
 	shape := RTCompositeShape new.
-	shape add: (RTVisualID for: [:obj| cluster id: obj dependentClasses.]).
+	shape add: (RTVisualID for: [ :obj| cluster id: obj dependentClasses ]).
 	shape add: RTLabel new.
 	shape vertical.
 	es := shape elementsOn: objects.

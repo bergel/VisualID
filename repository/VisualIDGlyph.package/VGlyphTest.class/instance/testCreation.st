@@ -1,4 +1,4 @@
 tests
 testCreation
-	self glyphClassToTest for: 42 parent: VNull new
+	self glyphClassToTest for: random parent: VNull new
 	

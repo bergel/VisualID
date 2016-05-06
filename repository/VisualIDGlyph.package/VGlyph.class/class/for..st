@@ -1,3 +1,3 @@
 factory
-for: anObject
-	^ self for: anObject parent: VNull new
+for: random
+	^ self for: random parent: VNull new

@@ -1,3 +1,3 @@
 action
 prob: probability
-	^ VRandom default next < probability.
+	^ self next < probability

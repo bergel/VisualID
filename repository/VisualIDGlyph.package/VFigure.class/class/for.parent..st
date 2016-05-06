@@ -1,18 +1,19 @@
 factory
-for: anObject parent: aGlyph
+for: random parent: aGlyph
 	"Public method to create a glyph"
-	| figure random |
-	random := aGlyph createOrGetRandomFor: anObject.
+	| figure |
+	self assert: [ random class == VRandom ].
 	figure := VFigure new.
+	figure random: random.
 	figure parent: aGlyph.
 	figure headScale: (random randomFrom: 0.1 to: 0.2).
 	figure legScale: (random randomFrom: 0.3 to: 0.6).
 	figure tailScale: (random randomFrom: 0.1 to: 0.4).
-	figure head: (VRadial for: anObject parent: figure).
-	figure leg: (VLine for: anObject parent: figure).
+	figure head: (VRadial for: random parent: figure).
+	figure leg: (VLine for: random parent: figure).
 	figure
 		tail:
-			((VRandom default prob: 0.8)
-				ifTrue: [ VLine for: anObject parent: figure ]
-				ifFalse: [ VNull for: anObject parent: figure ]).
+			((random prob: 0.8)
+				ifTrue: [ VLine for: random parent: figure ]
+				ifFalse: [ VNull for: random parent: figure ]).
 	^ figure

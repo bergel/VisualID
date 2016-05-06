@@ -1,3 +1,3 @@
 factory
-for: anObject parent: aGlyph
+for: random parent: aGlyph
 	^ self subclassResponsibility

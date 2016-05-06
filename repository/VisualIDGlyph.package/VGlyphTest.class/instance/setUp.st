@@ -1,4 +1,5 @@
 running
 setUp
 	super setUp.
-	f := self glyphClassToTest new
+	random := VRandom seed: 42.
+	f := self glyphClassToTest for: random

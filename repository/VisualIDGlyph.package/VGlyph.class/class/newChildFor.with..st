@@ -1,9 +1,10 @@
 hooks
-newChildFor: aGlyph with: anObject
-	|class|
+newChildFor: aGlyph with: random
+	| class |
+	self assert: [ random class == VRandom ].
 	class := VLine.
 	(aGlyph level < MAX_LEVEL and: [aGlyph rootComplexity < MAX_COMPLEXITY]) ifTrue:[
-		class := VRandom default discrete: (self glyphs: aGlyph).
+		class := random discrete: (self glyphs: aGlyph).
 	].
-	^ class for: anObject parent: aGlyph.
+	^ class for: random parent: aGlyph.
 	

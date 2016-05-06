@@ -1,8 +1,9 @@
 factory
-for: anObject parent: aGlyph
-	| radial random | 
-	random := aGlyph createOrGetRandomFor: anObject.
+for: random parent: aGlyph
+	| radial | 
+	self assert: [ random class == VRandom ].
 	radial := VRadial new.
+	radial random: random.
 	radial parent: aGlyph.
 	radial numVertices: (random virand: 3 range: 12 biased: 2) asInteger.
 	radial spawnVertex: (random prob: 0.5).
@@ -23,8 +24,8 @@ for: anObject parent: aGlyph
 		ifTrue: [ 
 			radial angleCutoff: (random randomFrom: Float pi / 2 to: Float pi / 1.2) ]
 		ifFalse: [ radial angleCutoff: Float pi. ].
-	radial spawnVertex ifTrue: [self spawn: radial with: anObject on: #vertexChild:].
-	radial spawnMouth ifTrue: [ self spawn: radial with: anObject on: #mouthChild:].
-	radial spawnEye ifTrue: [self spawn: radial with: anObject on: #eyeChild:].
+	radial spawnVertex ifTrue: [self spawn: radial with: random on: #vertexChild:].
+	radial spawnMouth ifTrue: [ self spawn: radial with: random on: #mouthChild:].
+	radial spawnEye ifTrue: [self spawn: radial with: random on: #eyeChild:].
 		
 	^ radial.

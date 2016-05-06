@@ -6,7 +6,6 @@ nil
 	
 	:: Void -> VisualID
 	"
-	
 	nilVisual notNil ifTrue: [ ^ nilVisual ].
 	nilVisual := self randomFor: nil.
 	^ nilVisual

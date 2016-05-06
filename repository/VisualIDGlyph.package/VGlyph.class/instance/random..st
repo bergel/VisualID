@@ -1,3 +1,4 @@
 accessing
-random: seedObject
-	random := VRandom newWithSeed: seedObject hash
+random: aRandom
+	random := aRandom.
+	self assert: [ random class == VRandom ].

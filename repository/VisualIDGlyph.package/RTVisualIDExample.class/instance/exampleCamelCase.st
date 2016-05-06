@@ -3,7 +3,7 @@ exampleCamelCase
 	| shape s elements v |
 	shape := RTVisualID new.
 	shape score: 30.
-	shape basedOn: [ :cls | cls name piecesCutWhereCamelCase ].
+	shape basedOn: [ :cls | cls name cutWhereCamelCase ].
 	"shape color: [ :ele| Color random ]."
 	
 	s := RTCompositeShape new.

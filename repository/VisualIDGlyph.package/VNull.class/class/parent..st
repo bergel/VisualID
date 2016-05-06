@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 parent: aGlyph
 	|inst|
 	inst := self new.

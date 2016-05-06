@@ -9,7 +9,7 @@ subclassDemo
 						forOchiaiCollections.
 	shape := RTCompositeShape new.
 	shape add: RTLabel new.
-	shape add: (RTVisualID for: [:class | cluster id: class dependentClasses]).
+	shape add: (RTVisualID for: [:class | cluster id: class dependentClasses ]).
 	shape vertical.
 	es := shape elementsOn: RTShape withAllSubclasses.
 	v addAll: es.

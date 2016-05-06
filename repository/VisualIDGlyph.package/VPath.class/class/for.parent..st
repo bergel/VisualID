@@ -1,7 +1,7 @@
 factory
-for: anObject parent: aGlyph
+for: random parent: aGlyph
 	| path |
 	path := VPath new.
 	path parent: aGlyph.
-	self setUpMetaShape: path with: anObject.
+	self setUpMetaShape: path with: random.
 	^ path
