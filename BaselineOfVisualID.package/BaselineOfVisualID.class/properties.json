@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfVisualID",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfVisualID",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
