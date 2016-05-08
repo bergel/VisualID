@@ -1,0 +1,14 @@
+{
+	"category" : "VisualIDGlyph-CoreGlyph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "VNull",
+	"pools" : [
+		 ],
+	"super" : "VGlyph",
+	"type" : "normal" }

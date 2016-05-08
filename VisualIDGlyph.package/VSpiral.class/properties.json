@@ -1,0 +1,22 @@
+{
+	"category" : "VisualIDGlyph-CoreGlyph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"length",
+		"aligned",
+		"ppr",
+		"spawnCenter",
+		"centerScale",
+		"spawnOuter",
+		"outerScale",
+		"centerChild",
+		"outerChild" ],
+	"name" : "VSpiral",
+	"pools" : [
+		 ],
+	"super" : "VGlyph",
+	"type" : "normal" }

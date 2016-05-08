@@ -1,0 +1,27 @@
+{
+	"category" : "VisualIDGlyph-CoreGlyph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"numVertices",
+		"spawnVertex",
+		"vertexChild",
+		"vcScale",
+		"spawnMouth",
+		"mouthChild",
+		"mcScale",
+		"mouthOrg",
+		"spawnEye",
+		"eyeChild",
+		"ecScale",
+		"eyeSep",
+		"eyeOrg",
+		"angleCutoff" ],
+	"name" : "VRadial",
+	"pools" : [
+		 ],
+	"super" : "VGlyph",
+	"type" : "normal" }

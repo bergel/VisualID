@@ -1,0 +1,14 @@
+{
+	"category" : "VisualIDGlyph-RoassalIntegration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RTVisualIDTest",
+	"pools" : [
+		 ],
+	"super" : "RTTest",
+	"type" : "normal" }

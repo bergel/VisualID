@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testCollection" : "AlexandreBergel 10/8/2015 19:13",
+		"testDice" : "AlexandreBergel 10/8/2015 19:13",
+		"testJaccard" : "AlexandreBergel 10/8/2015 19:13",
+		"testOchiai" : "AlexandreBergel 10/8/2015 19:13",
+		"testSMC" : "AlexandreBergel 10/8/2015 19:13",
+		"testSorenson" : "AlexandreBergel 10/8/2015 19:13",
+		"testString" : "AlexandreBergel 3/4/2016 18:16",
+		"testString2" : "AlexandreBergel 10/8/2015 19:13" } }

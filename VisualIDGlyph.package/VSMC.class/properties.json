@@ -1,0 +1,14 @@
+{
+	"category" : "VisualIDGlyph-Comparison",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "VSMC",
+	"pools" : [
+		 ],
+	"super" : "VComparable",
+	"type" : "normal" }

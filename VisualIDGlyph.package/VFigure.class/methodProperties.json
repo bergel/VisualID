@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"defaultHeadScale" : "AlexandreBergel 3/27/2016 14:26",
+		"defaultLegScale" : "AlexandreBergel 3/27/2016 14:48",
+		"defaultTailScale" : "AlexandreBergel 3/27/2016 14:49",
+		"for:parent:" : "AlexandreBergel 5/6/2016 18:28",
+		"keyChild" : "AlexandreBergel 3/27/2016 14:57" },
+	"instance" : {
+		"childNames" : "IgnacioFernandez 8/5/2015 17:39",
+		"complexity" : "AlexandreBergel 3/27/2016 14:34",
+		"head" : "AlexandreBergel 3/27/2016 14:26",
+		"head:" : "AlexandreBergel 3/27/2016 14:26",
+		"headScale" : "AlexandreBergel 3/27/2016 14:25",
+		"headScale:" : "AlexandreBergel 3/27/2016 14:25",
+		"initialize" : "AlexandreBergel 3/27/2016 14:49",
+		"leg" : "AlexandreBergel 3/27/2016 14:34",
+		"leg:" : "AlexandreBergel 3/27/2016 14:34",
+		"legScale" : "IgnacioFernandez 7/13/2015 17:00",
+		"legScale:" : "IgnacioFernandez 7/13/2015 17:00",
+		"mutate" : "AlexandreBergel 5/6/2016 18:26",
+		"renderHeadOn:" : "AlexandreBergel 3/27/2016 14:26",
+		"renderLegsOn:" : "AlexandreBergel 3/27/2016 14:34",
+		"renderOn:" : "JuanPabloSandoval 7/10/2015 11:54",
+		"renderTailOn:" : "AlexandreBergel 3/27/2016 14:34",
+		"tail" : "AlexandreBergel 3/27/2016 14:34",
+		"tail:" : "AlexandreBergel 3/27/2016 14:34",
+		"tailScale" : "IgnacioFernandez 7/13/2015 17:00",
+		"tailScale:" : "IgnacioFernandez 7/13/2015 17:00" } }

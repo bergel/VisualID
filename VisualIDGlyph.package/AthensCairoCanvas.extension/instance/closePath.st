@@ -1,0 +1,2 @@
+*VisualIDGlyph-CoreGlyph
+closePath

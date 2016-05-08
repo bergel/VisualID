@@ -1,0 +1,14 @@
+{
+	"category" : "VisualIDGlyph-Paper-Experiment",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PaperExperiment",
+	"pools" : [
+		 ],
+	"super" : "AbstractPaperExperiment",
+	"type" : "normal" }

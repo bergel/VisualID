@@ -1,0 +1,14 @@
+{
+	"category" : "VisualIDGlyph-CoreGlyph-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"random" ],
+	"name" : "VisualIDTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

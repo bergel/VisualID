@@ -1,0 +1,14 @@
+{
+	"category" : "VisualIDGlyph-Comparison",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"score" ],
+	"name" : "VComparable",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

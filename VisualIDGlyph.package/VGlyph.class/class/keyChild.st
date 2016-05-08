@@ -1,0 +1,4 @@
+hooks
+keyChild
+	^ self subclassResponsibility
+	

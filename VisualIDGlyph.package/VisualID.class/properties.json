@@ -1,0 +1,22 @@
+{
+	"category" : "VisualIDGlyph-CoreGlyph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Instance",
+		"nilVisual" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"glyph",
+		"width",
+		"height",
+		"shadowColor",
+		"lineColor",
+		"canvas",
+		"paint",
+		"targetSize" ],
+	"name" : "VisualID",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

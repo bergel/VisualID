@@ -1,0 +1,3 @@
+hooks
+complexity
+	self subclassResponsability.

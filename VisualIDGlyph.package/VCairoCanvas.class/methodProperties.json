@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"from:" : "JuanPabloSandoval 6/30/2015 15:57" },
+	"instance" : {
+		"cairoTransform" : "JuanPabloSandoval 7/1/2015 15:40",
+		"currentPoint" : "JuanPabloSandoval 7/1/2015 15:32",
+		"draw:" : "Ignacio 7/1/2015 10:23",
+		"initialize" : "JuanPabloSandoval 6/30/2015 15:31",
+		"lineTo:" : "JuanPabloSandoval 7/1/2015 19:28",
+		"moveTo:" : "Ignacio 7/1/2015 11:43",
+		"original" : "IgnacioFernandez 7/8/2015 13:38",
+		"original:" : "IgnacioFernandez 7/8/2015 13:38",
+		"restore" : "JuanPabloSandoval 7/1/2015 15:46",
+		"rotateBy:" : "JuanPabloSandoval 7/1/2015 15:43",
+		"save" : "JuanPabloSandoval 7/1/2015 15:45",
+		"saveToFileName:" : "IgnacioFernandez 7/2/2015 16:31",
+		"scaleBy:" : "JuanPabloSandoval 7/1/2015 16:12",
+		"setLineCap:" : "IgnacioFernandez 7/8/2015 13:37",
+		"setLineJoin:" : "IgnacioFernandez 7/8/2015 13:37",
+		"setLineWidth:" : "IgnacioFernandez 7/8/2015 13:37",
+		"setR:G:B:" : "JuanPabloSandoval 7/1/2015 17:48",
+		"setR:G:B:A:" : "TudorGirba 5/7/2016 01:18",
+		"translateTo:" : "JuanPabloSandoval 7/1/2015 18:08" } }

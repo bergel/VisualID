@@ -1,0 +1,3 @@
+accessing
+childNames
+	^ #(#outlineChild #insideChild).

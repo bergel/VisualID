@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"for:" : "AlexandreBergel 5/6/2016 18:09",
+		"for:parent:" : "AlexandreBergel 5/6/2016 18:09",
+		"keyChild" : "IgnacioFernandez 7/23/2015 17:09",
+		"parent:" : "IgnacioFernandez 7/23/2015 14:31" },
+	"instance" : {
+		"=" : "AlexandreBergel 3/27/2016 18:21",
+		"complexity" : "AlexandreBergel 3/27/2016 18:21",
+		"initialize" : "JuanPabloSandoval 7/10/2015 00:47",
+		"isNull" : "JuanPabloSandoval 7/10/2015 00:49",
+		"level" : "AlexandreBergel 3/27/2016 18:21",
+		"mutate" : "AlexandreBergel 3/27/2016 18:21",
+		"renderOn:" : "AlexandreBergel 3/27/2016 18:21" } }

@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"blockToCompareClasses" : "AlexandreBergel 11/5/2015 16:10",
+		"classes:" : "AlexandreBergel 11/5/2015 16:08",
+		"computeSimilarities" : "AlexandreBergel 11/5/2015 16:16",
+		"defaultClassesForExperiment" : "AlexandreBergel 11/5/2015 16:11",
+		"initialize" : "AlexandreBergel 11/5/2015 16:13",
+		"numberOfClasses" : "AlexandreBergel 11/5/2015 16:12",
+		"perfectMatches" : "AlexandreBergel 11/5/2015 18:05",
+		"perfectMatchesPair" : "AlexandreBergel 11/5/2015 16:14",
+		"perfectMatchesPairs" : "AlexandreBergel 11/5/2015 16:13",
+		"run:" : "AlexandreBergel 11/5/2015 16:14",
+		"runWith:" : "AlexandreBergel 11/5/2015 16:13",
+		"scoreForPerfect" : "AlexandreBergel 11/5/2015 18:04",
+		"similarities" : "AlexandreBergel 11/5/2015 16:13" } }

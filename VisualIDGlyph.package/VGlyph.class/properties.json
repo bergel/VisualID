@@ -1,0 +1,17 @@
+{
+	"category" : "VisualIDGlyph-CoreGlyph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"MAX_COMPLEXITY",
+		"MAX_LEVEL" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parent",
+		"mutationRange",
+		"random" ],
+	"name" : "VGlyph",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

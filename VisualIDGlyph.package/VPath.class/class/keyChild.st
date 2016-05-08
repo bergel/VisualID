@@ -1,0 +1,3 @@
+hooks
+keyChild
+	^ #outlineChild

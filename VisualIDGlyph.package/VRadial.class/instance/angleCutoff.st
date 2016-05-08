@@ -1,0 +1,3 @@
+accessing
+angleCutoff
+	^ angleCutoff

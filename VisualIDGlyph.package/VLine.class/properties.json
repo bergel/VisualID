@@ -1,0 +1,28 @@
+{
+	"category" : "VisualIDGlyph-CoreGlyph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"length",
+		"ribCount",
+		"head",
+		"headScale",
+		"tail",
+		"tailScale",
+		"rib",
+		"ribScale",
+		"ribDoubleSided",
+		"ribAngle",
+		"ribTaper",
+		"ribIncrease",
+		"shouldSpawnTail",
+		"shouldSpawnRib",
+		"shouldSpawnHead" ],
+	"name" : "VLine",
+	"pools" : [
+		 ],
+	"super" : "VGlyph",
+	"type" : "normal" }

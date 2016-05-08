@@ -1,0 +1,14 @@
+{
+	"category" : "VisualIDGlyph-Canvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cairoTransform" ],
+	"name" : "VCairoCanvas",
+	"pools" : [
+		 ],
+	"super" : "VCanvasAdapter",
+	"type" : "normal" }

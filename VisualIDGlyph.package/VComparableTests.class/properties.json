@@ -1,0 +1,14 @@
+{
+	"category" : "VisualIDGlyph-Comparison",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cluster" ],
+	"name" : "VComparableTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

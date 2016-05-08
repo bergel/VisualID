@@ -1,0 +1,15 @@
+{
+	"category" : "VisualIDGlyph-RoassalIntegration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"visualID",
+		"rescale" ],
+	"name" : "TRVisualIDShape",
+	"pools" : [
+		 ],
+	"super" : "TRBoxShape",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"default" : "AlexandreBergel 10/6/2015 19:27",
+		"newWithSeed:" : "AlexandreBergel 10/6/2015 19:26",
+		"reset" : "IgnacioFernandez 7/29/2015 15:01",
+		"seed" : "IgnacioFernandez 7/29/2015 15:01" },
+	"instance" : {
+		"discrete:" : "AlexandreBergel 10/8/2015 19:30",
+		"prob:" : "AlexandreBergel 5/6/2016 18:11",
+		"prob:reduced:" : "IgnacioFernandez 7/9/2015 23:53",
+		"randomFrom:to:" : "IgnacioFernandez 7/9/2015 23:53",
+		"randomLevelFrom:to:at:" : "AlexandreBergel 5/6/2016 18:11",
+		"rationalLow:high:den:" : "IgnacioFernandez 7/9/2015 23:53",
+		"seed" : "IgnacioFernandez 7/29/2015 15:00",
+		"virand:range:biased:" : "AlexandreBergel 5/6/2016 17:44" } }

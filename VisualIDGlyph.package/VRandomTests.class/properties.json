@@ -1,0 +1,14 @@
+{
+	"category" : "VisualIDGlyph-Random",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "VRandomTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
